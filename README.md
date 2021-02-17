@@ -1,12 +1,8 @@
 # React Markdown Table Generator
 
-Easily create Markdown Tables without having to be an Ascii Art professional.
-
-[Test it out here](https://master.d3ehyc8gjtvav9.amplifyapp.com/).
-
 ![react_md_table](https://user-images.githubusercontent.com/3508123/66262015-18d2c680-e813-11e9-8885-29439a869849.gif)
 
-## To Run
+## Develop
 
 ```
 yarn install
@@ -74,11 +70,3 @@ Building a good table generator is difficult because of ContentEditable's unexpe
 ## LICENSE
 
 MIT License.
-
-Test Table:
-
-| Default Alignment | Center | Right |
-| --- |:---:|----:|
-| With \| Pipe | First **Row** 2 | First Row 3 |
-| Second Row 1 | Second Row 2 | Second Row 3 |
-| `Code` | *Italics* | **Bold** |
